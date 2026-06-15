@@ -1,0 +1,954 @@
+{
+  "1": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armadillo",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C1_Armadillo.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armadillo",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Armadillo",
+    "Turf": "Land",
+    "Type": "Creature",
+    "Impact": "",
+    "Text": "BLOCK: Once this turn, Armadillo is not KO'd"
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chameleon",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C1_Chameleon.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chameleon",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Chameleon",
+    "Turf": "Land",
+    "Type": "Creature",
+    "Text": "ATTACK: Change Chameleon's Turf until your next End Step.",
+    "Impact": "0"
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chicken",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C1_Chicken.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chicken",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Chicken",
+    "Turf": "Land",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "KO: Flip Chicken face-down and rested here as an Egg (Creature/Land/\"Cannot KO Creatures.\")"
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lion",
+        "type": false,
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C1_Lion.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lion",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Lion",
+    "Turf": "Land",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "PLAY: Place 1 Enemy Creature here into the Enemy Herd here, if able."
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skunk",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C1_Skunk.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skunk",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Skunk",
+    "Turf": "Land",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "BLOCK: Rest an Enemy Creature."
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Snail",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C1_Snail.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snail",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Snail",
+    "Turf": "Land",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "KO: Return this card to your hand during your next turn's End Step."
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eel",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C2_Eel.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eel",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Eel",
+    "Turf": "Sea",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "PLAY: KO any Ally Creatures and draw that many cards."
+  },
+  "8": {
+    "id": "8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flounder",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C2_Flounder.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flounder",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Flounder",
+    "Turf": "Sea",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "BLOCK: Place 1 of the bottom 4 cards of your Deck on top."
+  },
+  "9": {
+    "id": "9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seagull",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C2_Seagull.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seagull",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Seagull",
+    "Turf": "Sea",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "BLOCK: Move Seagull to another Ally Turf and draw 1 card."
+  },
+  "10": {
+    "id": "10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shark",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C2_Shark.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shark",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Shark",
+    "Turf": "Sea",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "ATTACK: If Shark breaks the Herd, draw 1 card."
+  },
+  "11": {
+    "id": "11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Starfish",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C2_Starfish.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Starfish",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Starfish",
+    "Turf": "Sea",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "KO: Shuffle 5 Discarded cards into the owners' Decks and draw 1 card."
+  },
+  "12": {
+    "id": "12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Urchin",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C2_Urchin.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Urchin",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Urchin",
+    "Turf": "Sea",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "KO: Once, add Urchin to an Enemy Zone here rested. It does not ready each turn."
+  },
+  "13": {
+    "id": "13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bat",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C3_Bat.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bat",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Bat",
+    "Turf": "Sky",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "ATTACK: Rearrange the top 3 cards of either player's Deck."
+  },
+  "14": {
+    "id": "14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Butterfly",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C3_Butterfly.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Butterfly",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Butterfly",
+    "Turf": "Sky",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "BLOCK: Discard 1 Active Nature. If it was an Enemy Nature, draw 1 card."
+  },
+  "15": {
+    "id": "15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Condor",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C3_Condor.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Condor",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Condor",
+    "Turf": "Sky",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "PLAY: Move 1 Ally Creature and 1 Enemy Creature to another of their owners' Zones."
+  },
+  "16": {
+    "id": "16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crow",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C3_Crow.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crow",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Crow",
+    "Turf": "Sky",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "ATTACK: Look at 1 Ally Herd. You may exchange it with a card in your hand."
+  },
+  "17": {
+    "id": "17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mockingbird",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C3_Mockingbird.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mockingbird",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Mockingbird",
+    "Turf": "Sky",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "PLAY: Copy another Creature's text (Mockingbird is still a Sky Creature)."
+  },
+  "18": {
+    "id": "18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wasp",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/C3_Wasp.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wasp",
+    "type": "Creature",
+    "cost": 0,
+    "Name": "Wasp",
+    "Turf": "Sky",
+    "Type": "Creature",
+    "Impact": 0,
+    "Text": "KO: Look at the Enemy hand and discard 1 card."
+  },
+  "19": {
+    "id": "19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eruption",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N1_Eruption.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eruption",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Eruption",
+    "Turf": "Land",
+    "Type": "Nature",
+    "Impact": "4",
+    "Text": "Choose 1 Turf. KO all Creatures there."
+  },
+  "20": {
+    "id": "20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fissure",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N1_Fissure.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fissure",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Fissure",
+    "Turf": "Land",
+    "Type": "Nature",
+    "Impact": "2",
+    "Text": "KO 1 attacking Creature."
+  },
+  "21": {
+    "id": "21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sinkhole",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N1_Sinkhole.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sinkhole",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Sinkhole",
+    "Turf": "Land",
+    "Type": "Nature",
+    "Impact": "2",
+    "Text": "KO 1 blocking Creature."
+  },
+  "22": {
+    "id": "22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wildfire",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N1_Wildfire.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wildfire",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Wildfire",
+    "Turf": "Land",
+    "Type": "Nature",
+    "Impact": "3",
+    "Text": "Choose 1 Turf. Rest all Creatures there."
+  },
+  "23": {
+    "id": "23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyclone",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N2_Cyclone.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyclone",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Cyclone",
+    "Turf": "Sea",
+    "Type": "Nature",
+    "Impact": "2",
+    "Text": "Return up to 1 Creature to its owner's hand. Draw 1 card"
+  },
+  "24": {
+    "id": "24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flood",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N2_Flood.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flood",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Flood",
+    "Turf": "Sea",
+    "Type": "Nature",
+    "Impact": "3",
+    "Text": "Both players draw until they hold 5 cards."
+  },
+  "25": {
+    "id": "25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Storm Surge",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N2_Storm_Surge.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Storm Surge",
+    "type": false,
+    "cost": 0,
+    "Name": "Storm Surge",
+    "Turf": "Sea",
+    "Type": "Nature",
+    "Impact": "2",
+    "Text": "Discard any number of cards. Draw that many +1."
+  },
+  "26": {
+    "id": "26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunami",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N2_Tsunami.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunami",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Tsunami",
+    "Turf": "Sea",
+    "Type": "Nature",
+    "Impact": "4",
+    "Text": "Choose 1 Turf. Place cards from the top of your Deck into Ally Herd there (max. 2)."
+  },
+  "27": {
+    "id": "27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gale Wind",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N3_Gale_Wind.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gale Wind",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Gale Wind",
+    "Turf": "Sky",
+    "Type": "Nature",
+    "Impact": "2",
+    "Text": "Ready 1 Creature."
+  },
+  "28": {
+    "id": "28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gust",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N3_Gust.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gust",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Gust",
+    "Turf": "Sky",
+    "Type": "Nature",
+    "Impact": "2",
+    "Text": "Move 1 Creature to another of its owner's Zones."
+  },
+  "29": {
+    "id": "29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hurricane",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N3_Hurricane.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hurricane",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Hurricane",
+    "Turf": "Sky",
+    "Type": "Nature",
+    "Impact": "4",
+    "Text": "Move any Enemy Creature(s) to Enemy Zone(s) of your choice."
+  },
+  "30": {
+    "id": "30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tornado",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N3_Tornado.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tornado",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Tornado",
+    "Turf": "Sky",
+    "Type": "Nature",
+    "Impact": "3",
+    "Text": "Play 1 Creature."
+  },
+  "31": {
+    "id": "31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blizzard",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N4_Blizzard.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blizzard",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Blizzard",
+    "Turf": "All",
+    "Type": "Nature",
+    "Impact": "3",
+    "Text": "While Active: Creatures enter play Rested. Creature cannot attack."
+  },
+  "32": {
+    "id": "32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gust",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N4_Fog.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fog",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Fog",
+    "Turf": "All",
+    "Type": "Nature",
+    "Impact": "2",
+    "Text": "Choose 1 Creature. It cannot be KO'd this turn."
+  },
+  "33": {
+    "id": "33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightning",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N4_Lightning.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightning",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Lightning",
+    "Turf": "All",
+    "Type": "Nature",
+    "Impact": "3",
+    "Text": "KO 1 Creature."
+  },
+  "34": {
+    "id": "34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meteor",
+        "type": "Nature",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/N4_Meteor.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://championgeorge.x02.me/i/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meteor",
+    "type": "Nature",
+    "cost": 0,
+    "Name": "Meteor",
+    "Turf": "All",
+    "Type": "Nature",
+    "Impact": "4",
+    "Text": "KO all Creatures."
+  }
+}
