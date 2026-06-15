@@ -1,5 +1,5 @@
 {
-  "1": {
+  "101": {
     "id": "",
     "isToken": false,
     "face": {
@@ -27,7 +27,7 @@
     "Impact": "",
     "Text": "BLOCK: Once this turn, Armadillo is not KO'd"
   },
-  "2": {
+  "102": {
     "id": "2",
     "isToken": false,
     "face": {
@@ -55,7 +55,7 @@
     "Text": "ATTACK: Change Chameleon's Turf until your next End Step.",
     "Impact": "0"
   },
-  "3": {
+  "103": {
     "id": "3",
     "isToken": false,
     "face": {
@@ -83,7 +83,7 @@
     "Impact": 0,
     "Text": "KO: Flip Chicken face-down and rested here as an Egg (Creature/Land/\"Cannot KO Creatures.\")"
   },
-  "4": {
+  "104": {
     "id": "4",
     "isToken": false,
     "face": {
@@ -111,7 +111,7 @@
     "Impact": 0,
     "Text": "PLAY: Place 1 Enemy Creature here into the Enemy Herd here, if able."
   },
-  "5": {
+  "105": {
     "id": "5",
     "isToken": false,
     "face": {
@@ -139,7 +139,7 @@
     "Impact": 0,
     "Text": "BLOCK: Rest an Enemy Creature."
   },
-  "6": {
+  "106": {
     "id": "6",
     "isToken": false,
     "face": {
@@ -167,7 +167,7 @@
     "Impact": 0,
     "Text": "KO: Return this card to your hand during your next turn's End Step."
   },
-  "7": {
+  "201": {
     "id": "7",
     "isToken": false,
     "face": {
@@ -195,7 +195,7 @@
     "Impact": 0,
     "Text": "PLAY: KO any Ally Creatures and draw that many cards."
   },
-  "8": {
+  "202": {
     "id": "8",
     "isToken": false,
     "face": {
@@ -223,7 +223,7 @@
     "Impact": 0,
     "Text": "BLOCK: Place 1 of the bottom 4 cards of your Deck on top."
   },
-  "9": {
+  "203": {
     "id": "9",
     "isToken": false,
     "face": {
@@ -251,7 +251,7 @@
     "Impact": 0,
     "Text": "BLOCK: Move Seagull to another Ally Turf and draw 1 card."
   },
-  "10": {
+  "204": {
     "id": "10",
     "isToken": false,
     "face": {
@@ -279,7 +279,7 @@
     "Impact": 0,
     "Text": "ATTACK: If Shark breaks the Herd, draw 1 card."
   },
-  "11": {
+  "205": {
     "id": "11",
     "isToken": false,
     "face": {
@@ -307,7 +307,7 @@
     "Impact": 0,
     "Text": "KO: Shuffle 5 Discarded cards into the owners' Decks and draw 1 card."
   },
-  "12": {
+  "206": {
     "id": "12",
     "isToken": false,
     "face": {
@@ -335,7 +335,7 @@
     "Impact": 0,
     "Text": "KO: Once, add Urchin to an Enemy Zone here rested. It does not ready each turn."
   },
-  "13": {
+  "301": {
     "id": "13",
     "isToken": false,
     "face": {
@@ -363,7 +363,7 @@
     "Impact": 0,
     "Text": "ATTACK: Rearrange the top 3 cards of either player's Deck."
   },
-  "14": {
+  "302": {
     "id": "14",
     "isToken": false,
     "face": {
@@ -391,7 +391,7 @@
     "Impact": 0,
     "Text": "BLOCK: Discard 1 Active Nature. If it was an Enemy Nature, draw 1 card."
   },
-  "15": {
+  "303": {
     "id": "15",
     "isToken": false,
     "face": {
@@ -419,7 +419,7 @@
     "Impact": 0,
     "Text": "PLAY: Move 1 Ally Creature and 1 Enemy Creature to another of their owners' Zones."
   },
-  "16": {
+  "304": {
     "id": "16",
     "isToken": false,
     "face": {
@@ -447,7 +447,7 @@
     "Impact": 0,
     "Text": "ATTACK: Look at 1 Ally Herd. You may exchange it with a card in your hand."
   },
-  "17": {
+  "305": {
     "id": "17",
     "isToken": false,
     "face": {
@@ -475,7 +475,7 @@
     "Impact": 0,
     "Text": "PLAY: Copy another Creature's text (Mockingbird is still a Sky Creature)."
   },
-  "18": {
+  "306": {
     "id": "18",
     "isToken": false,
     "face": {
@@ -503,7 +503,7 @@
     "Impact": 0,
     "Text": "KO: Look at the Enemy hand and discard 1 card."
   },
-  "19": {
+  "401": {
     "id": "19",
     "isToken": false,
     "face": {
@@ -531,7 +531,7 @@
     "Impact": "4",
     "Text": "Choose 1 Turf. KO all Creatures there."
   },
-  "20": {
+  "402": {
     "id": "20",
     "isToken": false,
     "face": {
@@ -559,7 +559,7 @@
     "Impact": "2",
     "Text": "KO 1 attacking Creature."
   },
-  "21": {
+  "403": {
     "id": "21",
     "isToken": false,
     "face": {
@@ -587,7 +587,7 @@
     "Impact": "2",
     "Text": "KO 1 blocking Creature."
   },
-  "22": {
+  "404": {
     "id": "22",
     "isToken": false,
     "face": {
@@ -615,7 +615,7 @@
     "Impact": "3",
     "Text": "Choose 1 Turf. Rest all Creatures there."
   },
-  "23": {
+  "501": {
     "id": "23",
     "isToken": false,
     "face": {
@@ -643,7 +643,7 @@
     "Impact": "2",
     "Text": "Return up to 1 Creature to its owner's hand. Draw 1 card"
   },
-  "24": {
+  "502": {
     "id": "24",
     "isToken": false,
     "face": {
@@ -671,7 +671,7 @@
     "Impact": "3",
     "Text": "Both players draw until they hold 5 cards."
   },
-  "25": {
+  "503": {
     "id": "25",
     "isToken": false,
     "face": {
@@ -699,7 +699,7 @@
     "Impact": "2",
     "Text": "Discard any number of cards. Draw that many +1."
   },
-  "26": {
+  "504": {
     "id": "26",
     "isToken": false,
     "face": {
@@ -727,7 +727,7 @@
     "Impact": "4",
     "Text": "Choose 1 Turf. Place cards from the top of your Deck into Ally Herd there (max. 2)."
   },
-  "27": {
+  "601": {
     "id": "27",
     "isToken": false,
     "face": {
@@ -755,7 +755,7 @@
     "Impact": "2",
     "Text": "Ready 1 Creature."
   },
-  "28": {
+  "602": {
     "id": "28",
     "isToken": false,
     "face": {
@@ -783,7 +783,7 @@
     "Impact": "2",
     "Text": "Move 1 Creature to another of its owner's Zones."
   },
-  "29": {
+  "603": {
     "id": "29",
     "isToken": false,
     "face": {
@@ -811,7 +811,7 @@
     "Impact": "4",
     "Text": "Move any Enemy Creature(s) to Enemy Zone(s) of your choice."
   },
-  "30": {
+  "604": {
     "id": "30",
     "isToken": false,
     "face": {
@@ -839,7 +839,7 @@
     "Impact": "3",
     "Text": "Play 1 Creature."
   },
-  "31": {
+  "701": {
     "id": "31",
     "isToken": false,
     "face": {
@@ -867,7 +867,7 @@
     "Impact": "3",
     "Text": "While Active: Creatures enter play Rested. Creature cannot attack."
   },
-  "32": {
+  "702": {
     "id": "32",
     "isToken": false,
     "face": {
@@ -895,7 +895,7 @@
     "Impact": "2",
     "Text": "Choose 1 Creature. It cannot be KO'd this turn."
   },
-  "33": {
+  "703": {
     "id": "33",
     "isToken": false,
     "face": {
@@ -923,7 +923,7 @@
     "Impact": "3",
     "Text": "KO 1 Creature."
   },
-  "34": {
+  "704": {
     "id": "34",
     "isToken": false,
     "face": {
