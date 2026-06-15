@@ -5,7 +5,7 @@
     "backgrounds": [
       "https://championgeorge.x02.me/i/board_1player.png"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://github.com/ChampionGeorge/kingdom/blob/main/StarterDeck.json"
   },
   "customHelp": "",
   "cardRotation": "90",
