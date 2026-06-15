@@ -1,0 +1,202 @@
+{
+  "name": "KINGDOM",
+  "menuBackgroundImage": "https://championgeorge.x02.me/i/logo.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://championgeorge.x02.me/i/board_1player.png"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://github.com/ChampionGeorge/kingdom/blob/main/CardList.json",
+    "cardBack": "https://championgeorge.x02.me/i/cardback.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Name",
+      "Type",
+      "Turf",
+      "Impact",
+      "Text"
+    ],
+    "formats": [
+      {
+        "title": "1v1 Highlander",
+        "gameplay": "Player vs Player. Each Player uses 1 34-card deck, with 1 copy of each card.",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Place any number of cards from your hand onto the bottom of your deck and draw the same number of cards.",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": true,
+        "firstPlayerTokenName": "Player 1",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "Turn Steps in order: READY > DRAW > MAIN > ATTACK > END",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Herd"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "(Land) Creature 1",
+                  "style": false
+                },
+                {
+                  "section": "(Land) Creature 2",
+                  "style": false
+                },
+                {
+                  "section": "(Sky) Creature 1",
+                  "style": false
+                },
+                {
+                  "section": "(Sky) Creature 2",
+                  "style": false
+                },
+                {
+                  "section": "(Sea) Creature 1",
+                  "style": false
+                },
+                {
+                  "section": "(Sea) Creature 2",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Land Nature",
+                  "style": false
+                },
+                {
+                  "section": "Sky Nature",
+                  "style": false
+                },
+                {
+                  "section": "Sea Nature",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Land Herd 1",
+                  "style": false
+                },
+                {
+                  "section": "Land Herd 2",
+                  "style": false
+                },
+                {
+                  "section": "Sky Herd 1",
+                  "style": false
+                },
+                {
+                  "section": "Sky Herd 2",
+                  "style": false
+                },
+                {
+                  "section": "Sea Herd 1",
+                  "style": false
+                },
+                {
+                  "section": "Sea Herd 2",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {
+          "Creature": ""
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Turf": {
+            "title": "Turf",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Nature": {
+            "title": "Nature",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Herd": {
+            "title": "Herd",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
